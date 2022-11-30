@@ -1,0 +1,15 @@
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\bin\Debug\net6.0\newdotnet1.exe
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\bin\Debug\net6.0\newdotnet1.deps.json
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\bin\Debug\net6.0\newdotnet1.runtimeconfig.json
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\bin\Debug\net6.0\newdotnet1.dll
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\bin\Debug\net6.0\ref\newdotnet1.dll
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\bin\Debug\net6.0\newdotnet1.pdb
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.csproj.AssemblyReference.cache
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.AssemblyInfoInputs.cache
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.AssemblyInfo.cs
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.csproj.CoreCompileInputs.cache
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.dll
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\ref\newdotnet1.dll
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.pdb
+C:\Users\gopal\OneDrive\Desktop\newdotnet1\obj\Debug\net6.0\newdotnet1.genruntimeconfig.cache
